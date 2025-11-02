@@ -61,7 +61,7 @@
 						</div>
 						<div>
 							<h6 class="mb-1 fw-semibold">Address</h6>
-							<p class="text-muted mb-0 small">123 Travel Street<br>Adventure City, AC 12345<br>United States</p>
+							<p class="text-muted mb-0 small">Gharuan<br>Mohali<br>India</p>
 						</div>
 					</div>
 				</div>
@@ -76,8 +76,7 @@
 						<div>
 							<h6 class="mb-1 fw-semibold">Phone</h6>
 							<p class="text-muted mb-0 small">
-								<a href="tel:+1234567890" class="text-decoration-none">+1 (234) 567-890</a><br>
-								<a href="tel:+1234567891" class="text-decoration-none">+1 (234) 567-891</a>
+								<a href="tel:+91 7009808750" class="text-decoration-none">+91 7009808750</a><br>
 							</p>
 						</div>
 					</div>
